@@ -5,7 +5,8 @@
   "description": "ExpressJS backend service",
   "scripts": {
     "dev": "nodemon src/main.js",
-    "start": "node src/main.js"
+    "start": "node src/main.js",
+    "start:dev": "nodemon src/main.js"
   },
   "author": "ABC Digital",
   "license": "UNLICENSED",
