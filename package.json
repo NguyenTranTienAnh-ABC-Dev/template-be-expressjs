@@ -1,16 +1,14 @@
 {
-  "name": "template-be-expressjs",
+  "name": "PROJECT_NAME",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
+  "description": "ExpressJS backend service",
   "scripts": {
     "dev": "nodemon src/main.js",
     "start": "node src/main.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "packageManager": "pnpm@10.28.2",
+  "author": "ABC Digital",
+  "license": "UNLICENSED",
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^17.2.3",
